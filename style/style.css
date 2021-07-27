@@ -1,0 +1,12 @@
+body{
+    direction: rtl;
+}
+.one{
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-right: 110px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+
+}
